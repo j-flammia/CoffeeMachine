@@ -1,2 +1,2 @@
-ost = Happy
-print(type_of(0st))
+ost = "Happy"
+print(type(osti))

@@ -1,1 +1,1 @@
-# put your python code here
+print(sum(int(n) for n in input()))

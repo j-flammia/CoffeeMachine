@@ -1,2 +1,2 @@
-str = "Hello"
-str = str + str(10)
+str_ = "Hello"
+str_ = str_ + str(10)

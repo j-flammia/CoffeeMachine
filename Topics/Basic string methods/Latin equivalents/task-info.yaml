@@ -14,5 +14,8 @@ files:
     print(normalize(name))
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/13808#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 29 Jun 2021 10:38:21 UTC
 record: -1
